@@ -221,4 +221,5 @@ pip-log.txt
 tools/
 lib/impact/
 lib/weltmeister/
-lib/plusplus/
+lib/plusplus/*
+!lib/plusplus/config-user.js
